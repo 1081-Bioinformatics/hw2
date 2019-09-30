@@ -2,9 +2,9 @@
 
 ## Description
 
-* Write R script to calculate pairwise alignment score.
-* Creating your own R script, hw2_yourStudentID.R , ie. hw2_105753026.R.
-* In this program, library Biostrings is only used to parse fasta file. Even pairwise alighment function is supported by Biostrings, please complete the dynamic programming part by yourself.
+* Write R or Python script to calculate pairwise alignment score.
+* Creating your own script with your student ID, ie. hw2_105753026.R.
+* In this program, library Biostrings is only used to parse fasta file.
 
 ## File
 
