@@ -26,7 +26,7 @@ Executing your code with the following command.
 ```R
 Rscript hw2_studentID.R --input test.fasta --score pam250.txt --gap -10
 ```
-The answer is -64. You should print it on the screen.
+The answer is 33. You should print it on the screen.
 
 ## Evaluation
 

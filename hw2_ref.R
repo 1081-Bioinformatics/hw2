@@ -44,6 +44,8 @@ print(paste("gap                :", g))
 ff <- readAAStringSet(i_f)
 seq_name = names(ff)
 sequence = paste(ff)
+print(sequence[1])
+print(sequence[2])
 
 # aln length
 aln_length <- nchar(sequence[1])
