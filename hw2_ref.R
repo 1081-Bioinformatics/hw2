@@ -10,7 +10,7 @@ library("Biostrings",verbose=F,quietly=T)
 # read parameters
 args = commandArgs(trailingOnly=TRUE)
 if (length(args)==0) {
-  stop("USAGE: Rscript pro2_<your student ID>.R --input test.fasta --score pam250.txt --gap -10", call.=FALSE)
+  stop("USAGE: Rscript hw2_<your student ID>.R --input test.fasta --score pam250.txt --gap -10", call.=FALSE)
 }
 
 # parse parameters
