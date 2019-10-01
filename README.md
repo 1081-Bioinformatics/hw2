@@ -1,5 +1,5 @@
 # hw2
-
+<your name + student ID>
 ## Description
 
 * Write R or Python script to calculate pairwise alignment score.
